@@ -1,16 +1,7 @@
-# musicproject2
+# Music to Sheet App
 
-A new Flutter project.
+This is a project I worked on with my student daniel that takes an audio file of solo piano and converts it into sheet music. The program was created using the flutter framework with magenta as a backend converter to transform audio to midi then to sheetmusic. This app was published on both the apple app store and the google play store.
 
-## Getting Started
+https://play.google.com/store/apps/details?id=com.CodingMinds.musicproject2
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
